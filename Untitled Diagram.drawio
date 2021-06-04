@@ -1,17 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T02:58:20.442Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8VOxlnEbKvlorDmrqdrU" version="14.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T03:30:46.101Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="xj7pEJTltse9ASKJVjbR" version="14.7.5" type="github">
   <diagram id="PoX8S7cS3Az8JxbZ1rU_" name="Page-1">
-    <mxGraphModel dx="2024" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2324" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_qeGP8EwscZHUrXhROF0-10" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;房间&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="130" width="140" height="60" as="geometry" />
+        <mxCell id="aUfZhPqX8Fduigicx2p3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_qeGP8EwscZHUrXhROF0-10" target="aUfZhPqX8Fduigicx2p3-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qeGP8EwscZHUrXhROF0-11" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;房间成员&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="130" width="140" height="60" as="geometry" />
+        <mxCell id="aUfZhPqX8Fduigicx2p3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_qeGP8EwscZHUrXhROF0-10" target="aUfZhPqX8Fduigicx2p3-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qeGP8EwscZHUrXhROF0-30" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;房间&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="370" width="140" height="60" as="geometry" />
+        <mxCell id="_qeGP8EwscZHUrXhROF0-10" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;房间&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="80" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aUfZhPqX8Fduigicx2p3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qeGP8EwscZHUrXhROF0-11" target="aUfZhPqX8Fduigicx2p3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_qeGP8EwscZHUrXhROF0-11" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Entity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;房间成员&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="80" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_qeGP8EwscZHUrXhROF0-30" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Service&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;房间&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUfZhPqX8Fduigicx2p3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aUfZhPqX8Fduigicx2p3-1" target="_qeGP8EwscZHUrXhROF0-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUfZhPqX8Fduigicx2p3-1" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Repo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;房间&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUfZhPqX8Fduigicx2p3-4" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Service&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;房间管理员&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUfZhPqX8Fduigicx2p3-5" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b&gt;Repo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;房间管理员&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="400" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
